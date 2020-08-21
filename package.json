@@ -7,19 +7,19 @@
     "email": "yyx990803@gmail.com"
   },
   "dependencies": {
-    "pm2": "^2.4.5",
-    "parse-github-url": "^1.0.0",
-    "colors": "^1.1.2",
     "async": "^2.3.0",
-    "serve-favicon":"^2.4.2",
-    "serve-static":"^1.12.1",
-    "mkdirp": "^0.5.1",
+    "basic-auth": "^1.1.0",
     "body-parser": "^1.17.1",
     "cli-table": "^0.3.1",
-    "basic-auth":"^1.1.0",
-    "express": "^4.15.2",
+    "colors": "^1.1.2",
+    "debug": "^2.6.3",
     "ejs": "^2.5.6",
-    "debug": "^2.6.3"
+    "express": "^4.15.2",
+    "mkdirp": "^0.5.1",
+    "parse-github-url": "^1.0.0",
+    "pm2": "^4.4.1",
+    "serve-favicon": "^2.4.2",
+    "serve-static": "^1.12.1"
   },
   "devDependencies": {
     "jscoverage": "^0.6.0",
